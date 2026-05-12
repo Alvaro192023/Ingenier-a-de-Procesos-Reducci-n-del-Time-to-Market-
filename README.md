@@ -1,4 +1,4 @@
-# Process Champion — Reduccion del Time to Market
+# Business Case — Reduccion del Time to Market
 
 Diagnostico data-driven sobre el deterioro del indicador Time to Market en un proceso de desarrollo de software. Analisis estadistico de +6,000 releases identificando la disponibilidad del equipo como causa raiz (correlacion -0.79, R2 = 0.628). Mapeo de Value Stream con clasificacion AV/NAV que revelo 34.8% de actividades sin valor agregado. Propuesta de estado To Be con reduccion del 51% en Lead Time (46d a 22.5d) mediante automatizacion de testing, parallel processing y zero-touch deployment. Stack: Python (Pandas, SciPy, Matplotlib), n8n, Jenkins, JIRA.
 
