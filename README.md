@@ -107,7 +107,7 @@ python analisis_completo.py
 python informe_ejecutivo.py
 
 # Ejecutar automatizacion con alertas
-python bcp_process_automation.py
+python bs_process_automation.py
 
 # Generar visualizaciones
 python generate_charts.py
